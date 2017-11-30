@@ -1,0 +1,26 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashke89/node-redis.git"
+  },
+  "author": "Rados Mijatovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashke89/node-redis/issues"
+  },
+  "homepage": "https://github.com/rashke89/node-redis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "redis": "^2.8.0"
+  }
+}
